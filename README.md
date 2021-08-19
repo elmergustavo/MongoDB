@@ -7,8 +7,7 @@
 * `use nombreBD` : Crear base de datos y cambia a la que se creó (No lo crea hasta que se ingresen datos a esa BD).
 * `db.NombreCollection.insert({})` : se insertan datos a NombreCollection puede ser cualquier nombre y dentro del campo van los documentos
 
-
-
+![](https://github.com/elmergustavo/MongoDB-Java/blob/master/img.jpg)
 
 
 
